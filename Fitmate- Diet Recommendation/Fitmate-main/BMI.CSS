@@ -1,0 +1,77 @@
+.phppot-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  .login-signup a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .login-signup a:hover {
+    text-decoration: underline;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    height: 50px;
+    font-size: 16px;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .alert {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .alert-primary {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .alert-secondary {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  
+  .alert-success {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .alert-warning {
+    background-color: #ffc107;
+    color: #000;
+  }
+  
+  .alert-danger {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
